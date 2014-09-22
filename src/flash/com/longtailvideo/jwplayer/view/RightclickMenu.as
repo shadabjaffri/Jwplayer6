@@ -33,15 +33,15 @@ package com.longtailvideo.jwplayer.view
       
       protected var copythis:ContextMenuItem;
       
-	  protected var watchon:ContextMenuItem;
+      protected var watchon:ContextMenuItem;
 	  
       protected var copyembedcode:ContextMenuItem;
       
       protected var debug:ContextMenuItem;
       
-	  protected var shareonfb:ContextMenuItem;
+      protected var shareonfb:ContextMenuItem;
 		
-	  protected var shareontwitter:ContextMenuItem;
+      protected var shareontwitter:ContextMenuItem;
 	  
       protected function addItem(param1:ContextMenuItem, param2:Function, param3:Boolean = true) : void {
          param1.addEventListener(ContextMenuEvent.MENU_ITEM_SELECT,param2);
