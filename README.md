@@ -9,3 +9,5 @@ Whats  new?
 2. Changed default skin
 3. added option to embed player with config.xml file
 and little more changes
+
+http://www.themeflock.com
